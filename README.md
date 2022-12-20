@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 About me: 
-- 🔭 I’m currently working Indra Company
+- 🔭 I’m currently working at Keeggo
 - 🐻 QA Analyst.
 - 🌱 Learning RestAssured, Java & Appium.
 - 👯 I’m looking to study automation and collaborate on open-source.
