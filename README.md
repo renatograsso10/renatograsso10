@@ -1,40 +1,92 @@
+<div align="center">
 
-<!--
-**renatograsso10/renatograsso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6e40c9&height=200&section=header&text=Renato%20Grasso&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=QA%20Engineer%20%7C%20Test%20Automation%20Architect&descSize=16&descAlignY=62&fontAlign=50&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hey There! 
-
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Tests-blue?style=for-the-badge&color=purple"/>](#)
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Automation-blue?style=for-the-badge&color=pink"/>](#)
-[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Games-blue?style=for-the-badge&color=black"/>](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=renatograsso10&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/renatograsso10)
+[![GitHub followers](https://img.shields.io/github/followers/renatograsso10?logo=github&style=for-the-badge&color=0d1117&labelColor=1a1b27)](https://github.com/renatograsso10?tab=followers)
 
 <br>
 
-About me: 
-- 🔭 I’m currently working at Keeggo
-- 🐻 QA Analyst.
-- 🌱 Learning RestAssured, Java & Appium.
-- 👯 I’m looking to study automation and collaborate on open-source.
-- 💬 Ask me about software quality and test automation. 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=QA+Engineer;Test+Automation+Architect;Performance+Tester;Quality+Advocate" alt="Typing SVG" /></a>
 
-<br><br>
-You can find me here too:
+</div>
+
+---
+
+## 🎮 &nbsp;Character Sheet
+
+<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```js
+class QAEngineer extends Developer {
+  
+  name     = "Renato Grasso";
+  title    = "QA Engineer";
+  guild    = "Indra Company";
+  region   = "Brazil 🇧🇷";
+  level    = "Senior";
+  
+  quests = {
+    main:  "Test Automation Architecture",
+    side:  ["Performance Engineering",
+            "Contract Testing",
+            "Quality Governance"]
+  };
+  
+  inventory = {
+    weapons:   ["Cypress", "Selenium", "K6",
+                "Playwright", "RestAssured"],
+    armor:     ["Docker", "CI/CD", "Git"],
+    potions:   ["Coffee ☕", "Music 🎧"]
+  };
+}
+```
+
+</td>
+<td width="45%" valign="top">
+
 <br>
-[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/renato_grasso/)
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="28" />](https://www.linkedin.com/in/renato-grasso-bueno-nascimento-7a4117144/)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renatograsso10&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6e40c9&ring=6e40c9&fire=FF6E40&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555" alt="GitHub Streak" width="100%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatograsso10&theme=tokyonight" alt="Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📡 &nbsp;Commit Radar
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatograsso10&theme=tokyonight" alt="Profile Details" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renatograsso10&theme=tokyonight&utcOffset=-3" alt="Productive Time" height="180em"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renatograsso10&theme=tokyonight" alt="Most Commit Language" height="180em"/>
+</div>
+
+---
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renatograsso95&show_icons=true&theme=dracula)](https://github.com/renatograsso95)
-<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Renato%20Grasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-grasso-bueno-nascimento-7a4117144/)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=6e40c9&height=150&section=footer"/>
+</div>
