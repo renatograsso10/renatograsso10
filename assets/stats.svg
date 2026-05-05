@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Renato Grasso — neofetch + languages</title>
+  <desc id="desc">Custom terminal panel with GitHub statistics and top languages.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070a"/>
+      <stop offset="48%" stop-color="#08110d"/>
+      <stop offset="100%" stop-color="#05070a"/>
+    </linearGradient>
+    <linearGradient id="pulse-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#34d399" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1612"/>
+      <stop offset="100%" stop-color="#070d0b"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#143628" opacity=".55"/>
+    </pattern>
+    <clipPath id="frame"><rect x="58" y="20" width="1084" height="660" rx="22"/></clipPath>
+
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .prompt { font-size: 19px; fill: #34d399; font-weight: 700; }
+      .cmd    { font-size: 19px; fill: #c9d1d9; }
+      .text   { font-size: 16px; fill: #c9d1d9; }
+      .key    { font-size: 16px; fill: #5eead4; }
+      .val    { font-size: 16px; fill: #f0fdf4; }
+      .muted  { font-size: 14px; fill: #6b7280; }
+      .label  { font-size: 13px; fill: #8b949e; letter-spacing: .12em; }
+      .ok     { fill: #22c55e; font-weight: 700; }
+      .accent { fill: #34d399; }
+      .lang   { font-size: 16px; fill: #d1fae5; font-weight: 600; }
+      .pct    { font-size: 16px; fill: #f8fafc; font-weight: 700; }
+      .ascii  { font-size: 18px; fill: #34d399; letter-spacing: 1px; font-weight: 700; }
+      .ascii-d{ font-size: 18px; fill: #134e3a; letter-spacing: 1px; }
+      @keyframes blink { 0%,48%{opacity:1} 49%,100%{opacity:.12} }
+      @keyframes scan  { from{transform:translateY(-260px)} to{transform:translateY(700px)} }
+      @keyframes dash  { to{stroke-dashoffset:-260} }
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      .scan  { animation: scan 6s linear infinite; }
+      .dash  { stroke-dasharray: 14 12; animation: dash 12s linear infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="700" fill="#05070a"/>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+
+  <g opacity=".18">
+    <path d="M0 80 H1200 M0 200 H1200 M0 320 H1200 M0 440 H1200 M0 560 H1200 M0 680 H1200" stroke="#0f3a28" stroke-width="1"/>
+    <path d="M120 0 V700 M240 0 V700 M360 0 V700 M480 0 V700 M600 0 V700 M720 0 V700 M840 0 V700 M960 0 V700 M1080 0 V700" stroke="#0f3a28" stroke-width="1"/>
+  </g>
+
+  <rect x="58" y="20" width="1084" height="660" rx="22" fill="#07100c" stroke="#164e36" stroke-width="2"/>
+  <rect x="58" y="20" width="1084" height="660" rx="22" fill="url(#dots)" opacity=".4"/>
+
+  <g clip-path="url(#frame)">
+    <rect class="scan" x="58" y="0" width="1084" height="160" fill="url(#pulse-line)" opacity=".18"/>
+    <path class="dash" d="M86 660 H1114" stroke="#22c55e" stroke-width="1.5" opacity=".3"/>
+  </g>
+
+  <g class="mono">
+    <text x="92" y="56" class="muted">~/profile/stats</text>
+    <text x="240" y="56" class="muted">·</text>
+    <text x="258" y="56" class="muted">last sync 12h</text>
+    <text x="400" y="56" class="muted">·</text>
+    <text x="418" y="56" class="muted">api.github.com 200</text>
+    <circle cx="1100" cy="50" r="4" fill="#22c55e" class="blink"/>
+    <text x="1042" y="56" class="label">SYNCED</text>
+  </g>
+
+  <g class="mono">
+    <text x="92" y="100" class="prompt">guest@grasso</text>
+    <text x="220" y="100" class="cmd">:~/profile/stats$ neofetch --user renatograsso10</text>
+  </g>
+
+  <g class="mono">
+    <rect x="92" y="118" width="1016" height="262" rx="10" fill="url(#panel)" stroke="#1f3b2c"/>
+    <rect x="92" y="118" width="4" height="262" fill="#34d399"/>
+
+    <g transform="translate(120 156)">
+      <text x="0"  y="0"   class="ascii"> ▄▄▄▄▄    ▄▄▄▄▄</text>
+      <text x="0"  y="22"  class="ascii">██████   ██████</text>
+      <text x="0"  y="44"  class="ascii">██  ██  ██</text>
+      <text x="0"  y="66"  class="ascii">█████   ██  ▄▄▄</text>
+      <text x="0"  y="88"  class="ascii">██  ██  ██   ██</text>
+      <text x="0"  y="110" class="ascii">██   ██  ██████</text>
+      <text x="0"  y="132" class="ascii-d">─────────────────</text>
+      <text x="0"  y="154" class="accent" font-size="16" font-weight="700">renatograsso10</text>
+      <text x="0"  y="176" class="muted">qa engineer · brazil</text>
+    </g>
+
+    <line x1="430" y1="150" x2="430" y2="360" stroke="#1f3b2c" stroke-width="1" stroke-dasharray="4 4"/>
+
+    <g transform="translate(470 156)">
+      <text x="0"   y="0"   class="key">os</text>          <text x="170" y="0"   class="val">Windows 11 · WSL2 · Linux</text>
+      <text x="0"   y="26"  class="key">shell</text>       <text x="170" y="26"  class="val">bash · zsh · pwsh</text>
+      <text x="0"   y="52"  class="key">editor</text>      <text x="170" y="52"  class="val">vscode · vim · cursor</text>
+      <text x="0"   y="78"  class="key">uptime</text>      <text x="170" y="78"  class="val">4 years on github</text>
+      <text x="0"   y="104" class="key">repos</text>       <text x="170" y="104" class="val">12 public</text>
+      <text x="0"   y="130" class="key">followers</text>   <text x="170" y="130" class="val">4</text>           <text x="220" y="130" class="muted">/  following 21</text>
+      <text x="0"   y="156" class="key">commits.12mo</text><text x="170" y="156" class="val">21</text>          <text x="220" y="156" class="muted">across 5 repos</text>
+      <text x="0"   y="182" class="key">pull-requests</text><text x="170" y="182" class="val">3</text>         <text x="220" y="182" class="muted">opened · 2 merged</text>
+      <text x="0"   y="208" class="key">issues</text>      <text x="170" y="208" class="val">7</text>           <text x="220" y="208" class="muted">filed · 8 total</text>
+    </g>
+  </g>
+
+  <g class="mono">
+    <text x="92" y="430" class="prompt">guest@grasso</text>
+    <text x="220" y="430" class="cmd">:~/profile/stats$ ./langs --top --by=size</text>
+    <text x="600" y="430" class="muted">// ranked by bytes across all repos</text>
+  </g>
+
+  <g class="mono">
+    <rect x="92" y="448" width="1016" height="222" rx="10" fill="url(#panel)" stroke="#1f3b2c"/>
+    <rect x="92" y="448" width="4" height="222" fill="#22c55e"/>
+
+    <g transform="translate(122 478)">
+      <text x="0"   y="14" class="lang">C</text>
+      <text x="170" y="14" class="muted">1.69 MB</text>
+      <rect x="280" y="2"  width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="2"  width="0"   height="14" rx="4" fill="#6366f1">
+        <animate attributeName="width" from="0" to="426" dur="1.2s" begin="0.4s" fill="freeze"/>
+      </rect>
+      <text x="900" y="14" class="pct">71.6%</text>
+
+      <text x="0"   y="44" class="lang">TypeScript</text>
+      <text x="170" y="44" class="muted">311 KB</text>
+      <rect x="280" y="32" width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="32" width="0"   height="14" rx="4" fill="#3178c6">
+        <animate attributeName="width" from="0" to="79" dur="1.0s" begin="0.6s" fill="freeze"/>
+      </rect>
+      <text x="900" y="44" class="pct">13.2%</text>
+
+      <text x="0"   y="74" class="lang">JavaScript</text>
+      <text x="170" y="74" class="muted">263 KB</text>
+      <rect x="280" y="62" width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="62" width="0"   height="14" rx="4" fill="#facc15">
+        <animate attributeName="width" from="0" to="67" dur="1.0s" begin="0.8s" fill="freeze"/>
+      </rect>
+      <text x="900" y="74" class="pct">11.1%</text>
+
+      <text x="0"   y="104" class="lang">Go</text>
+      <text x="170" y="104" class="muted">45 KB</text>
+      <rect x="280" y="92" width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="92" width="0"   height="14" rx="4" fill="#0ea5e9">
+        <animate attributeName="width" from="0" to="12" dur="1.0s" begin="1.0s" fill="freeze"/>
+      </rect>
+      <text x="900" y="104" class="pct">1.9%</text>
+
+      <text x="0"   y="134" class="lang">Python</text>
+      <text x="170" y="134" class="muted">25 KB</text>
+      <rect x="280" y="122" width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="122" width="0"   height="14" rx="4" fill="#34d399">
+        <animate attributeName="width" from="0" to="7" dur="1.0s" begin="1.2s" fill="freeze"/>
+      </rect>
+      <text x="900" y="134" class="pct">1.1%</text>
+
+      <text x="0"   y="164" class="lang">Other</text>
+      <text x="170" y="164" class="muted">25 KB</text>
+      <rect x="280" y="152" width="600" height="14" rx="4" fill="#0f1f1a"/>
+      <rect x="280" y="152" width="0"   height="14" rx="4" fill="#fb923c">
+        <animate attributeName="width" from="0" to="6" dur="1.0s" begin="1.4s" fill="freeze"/>
+      </rect>
+      <text x="900" y="164" class="pct">1.1%</text>
+
+      <text x="0"   y="194" class="muted">▌ Rust · Shell · CSS · Dockerfile · Makefile · HTML · PowerShell · Nix · PLpgSQL</text>
+    </g>
+  </g>
+</svg>

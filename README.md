@@ -4,24 +4,7 @@
 
 <img src="./assets/body.svg" width="100%" alt="whoami · stack · focus · telemetry" />
 
-</div>
-
-<div align="center">
-
-<img height="180" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=renatograsso10&show_icons=true&hide_border=true&bg_color=05070a&title_color=34d399&icon_color=34d399&text_color=c9d1d9&ring_color=34d399&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatograsso10&layout=compact&hide_border=true&bg_color=05070a&title_color=34d399&text_color=c9d1d9&langs_count=8&hide=html,css,scss" />
-
-</div>
-
-<div align="center">
-
-<img height="180" alt="streak" src="https://streak-stats.demolab.com?user=renatograsso10&hide_border=true&background=05070a&stroke=34d399&ring=34d399&fire=fbbf24&currStreakLabel=34d399&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=renatograsso10&bg_color=05070a&color=34d399&line=22c55e&point=fbbf24&hide_border=true&area=true&hide_title=true&radius=8&custom_title=" />
+<img src="./assets/stats.svg" width="100%" alt="neofetch · github stats · top languages" />
 
 </div>
 

@@ -24,7 +24,7 @@
     </filter>
 
     <clipPath id="typed-line">
-      <rect x="232" y="263" width="0" height="34">
+      <rect x="232" y="288" width="0" height="34">
         <animate attributeName="width" from="0" to="755" dur="4.2s" begin="1.3s" fill="freeze"/>
       </rect>
     </clipPath>
@@ -143,11 +143,11 @@
     <text x="486" y="186" class="name">Renato Grasso</text>
     <text x="492" y="226" class="role">QA Engineer @Keeggo</text>
 
-    <text x="232" y="288" class="prompt">$</text>
+    <text x="232" y="313" class="prompt">$</text>
     <g clip-path="url(#typed-line)">
-      <text x="264" y="288" class="typed">building automation, quality gates, perf probes and backend labs</text>
+      <text x="264" y="313" class="typed">building automation, quality gates, perf probes and backend labs</text>
     </g>
-    <rect class="cursor" x="264" y="265" width="13" height="28">
+    <rect class="cursor" x="264" y="290" width="13" height="28">
       <animate attributeName="x" from="264" to="980" dur="4.2s" begin="1.3s" fill="freeze"/>
     </rect>
   </g>
