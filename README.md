@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="100%" alt="Renato Grasso — terminal profile" />
-
-<img src="./assets/body.svg" width="100%" alt="whoami · stack · focus · telemetry" />
-
-<img src="./assets/stats.svg" width="100%" alt="neofetch · github stats · top languages" />
+<img src="./assets/profile.svg" width="100%" alt="Renato Grasso — terminal profile" />
 
 </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake.svg" />
-  <img alt="contribution snake eating green squares" src="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" width="100%" />
 </picture>
 
 <div align="center">
