@@ -1,92 +1,73 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6e40c9&height=200&section=header&text=Renato%20Grasso&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=QA%20Engineer%20%7C%20Test%20Automation%20Architect&descSize=16&descAlignY=62&fontAlign=50&descAlign=50" width="100%"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=renatograsso10&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/renatograsso10)
-[![GitHub followers](https://img.shields.io/github/followers/renatograsso10?logo=github&style=for-the-badge&color=0d1117&labelColor=1a1b27)](https://github.com/renatograsso10?tab=followers)
-
-<br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=QA+Engineer;Test+Automation+Architect;Performance+Tester;Quality+Advocate" alt="Typing SVG" /></a>
-
+  <img src="./assets/terminal.svg" width="100%" alt="Renato Grasso terminal profile" />
 </div>
 
----
-
-## 🎮 &nbsp;Character Sheet
-
 <div align="center">
-<table>
-<tr>
-<td width="55%" valign="top">
+  <a href="https://www.linkedin.com/in/renato-grasso-qa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-renato--grasso--qa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/renatograsso10">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-renatograsso10-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-```js
-class QAEngineer extends Developer {
-  
-  name     = "Renato Grasso";
-  title    = "QA Engineer";
-  guild    = "Indra Company";
-  region   = "Brazil 🇧🇷";
-  level    = "Senior";
-  
-  quests = {
-    main:  "Test Automation Architecture",
-    side:  ["Performance Engineering",
-            "Contract Testing",
-            "Quality Governance"]
-  };
-  
-  inventory = {
-    weapons:   ["Cypress", "Selenium", "K6",
-                "Playwright", "RestAssured"],
-    armor:     ["Docker", "CI/CD", "Git"],
-    potions:   ["Coffee ☕", "Music 🎧"]
-  };
-}
+## `./profile`
+
+```txt
+role:      QA Engineer @Keeggo
+focus:     test automation, quality gates, performance, CI/CD
+building:  backend practice, APIs, containers, observability
+location:  Sao Vicente, SP, Brazil
 ```
 
-</td>
-<td width="45%" valign="top">
+## `./stack`
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renatograsso10&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=6e40c9&ring=6e40c9&fire=FF6E40&currStreakLabel=6e40c9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555" alt="GitHub Streak" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatograsso10&theme=tokyonight" alt="Stats" width="100%"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <th>Automation</th>
+    <th>API / Perf</th>
+    <th>Languages</th>
+    <th>Delivery</th>
+  </tr>
+  <tr>
+    <td>Playwright, Cypress, Selenium, Appium</td>
+    <td>RestAssured, Karate DSL, Postman, k6</td>
+    <td>JavaScript, TypeScript, Java, C, Python, Ruby</td>
+    <td>Docker, Jenkins, Azure DevOps, GitLab CI</td>
+  </tr>
 </table>
-</div>
-
----
-
-## 📡 &nbsp;Commit Radar
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatograsso10&theme=tokyonight" alt="Profile Details" width="100%"/>
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202c?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Appium" src="https://img.shields.io/badge/Appium-662d91?style=flat-square&logo=appium&logoColor=white" />
+  <img alt="k6" src="https://img.shields.io/badge/k6-7d64ff?style=flat-square&logo=k6&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599c?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-cc342d?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-<br>
+## `./telemetry`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renatograsso10&theme=tokyonight&utcOffset=-3" alt="Productive Time" height="180em"/>
-  &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renatograsso10&theme=tokyonight" alt="Most Commit Language" height="180em"/>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=renatograsso10&show_icons=true&theme=github_dark&hide_border=true&bg_color=070b10&title_color=34d399&icon_color=34d399&text_color=c9d1d9&rank_icon=github" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatograsso10&layout=compact&theme=github_dark&hide_border=true&bg_color=070b10&title_color=34d399&text_color=c9d1d9" />
 </div>
 
----
-
-
+<br />
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Renato%20Grasso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-grasso-bueno-nascimento-7a4117144/)
-
+  <img width="100%" alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatograsso10&theme=github_dark" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=6e40c9&height=150&section=footer"/>
-</div>
+## `./current-focus`
+
+- automation that catches regressions before deploy
+- API, mobile and web quality pipelines
+- performance checks with k6 and practical SLO thinking
+- backend labs to sharpen development, architecture and debugging
