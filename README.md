@@ -25,6 +25,12 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake.svg" />
+  <img alt="contribution snake eating green squares" src="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" width="100%" />
+</picture>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/renato-grasso-qa/"><img src="https://img.shields.io/badge/-linkedin-05070a?style=flat-square&logo=linkedin&logoColor=34d399&labelColor=05070a" alt="linkedin" /></a>
