@@ -17,7 +17,7 @@ My approach draws on SDET practices: treating test code as software, building re
 - **API testing:** contract checks, response validation, and integration coverage.
 - **Performance testing:** workload design, load testing with k6, and analysis with Grafana.
 - **CI and diagnostics:** smoke and regression pipelines, reports, traces, and failure investigation.
-- **Development interests:** C#, Java, and backend development that complements my testing work.
+- **Development interests:** JavaScript, C#, Java, and development that complements my testing work.
 
 ## Technologies
 
@@ -31,8 +31,9 @@ My approach draws on SDET practices: treating test code as software, building re
 
 **Development**
 
-I enjoy C# and Java, and exploring how applications are built alongside how they are tested.
+I use JavaScript in test automation with Cypress, and also enjoy C# and Java. I'm interested in how applications are built alongside how they are tested.
 
+![JavaScript](./assets/badges/javascript.svg)
 ![C#](./assets/badges/csharp.svg)
 ![Java](./assets/badges/java.svg)
 

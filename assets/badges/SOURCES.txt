@@ -10,3 +10,4 @@ flask: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons
 sqlalchemy: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlalchemy.svg
 csharp: https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
 java: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+javascript: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg
