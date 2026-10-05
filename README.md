@@ -1,22 +1,45 @@
-<div align="center">
+# Renato Grasso
 
-<img src="./assets/profile.svg" width="100%" alt="Renato Grasso — terminal profile" />
+**QA Engineer · Test Automation · Performance Testing**
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/renato-grasso-qa/) · [Email](mailto:renatograsso95@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/renatograsso10/renatograsso10/output/snake-dark.svg" width="100%" />
-</picture>
+## About me
 
-<div align="center">
+I'm a QA engineer focused on software quality, with an interest in the engineering behind reliable test automation. I work with web applications and APIs, combining automated testing, performance checks, and development skills to investigate failures and catch regressions.
 
-<a href="https://www.linkedin.com/in/renato-grasso-qa/"><img src="https://img.shields.io/badge/-linkedin-05070a?style=flat-square&logo=linkedin&logoColor=34d399&labelColor=05070a" alt="linkedin" /></a>
-<a href="https://github.com/renatograsso10"><img src="https://img.shields.io/badge/-github-05070a?style=flat-square&logo=github&logoColor=34d399&labelColor=05070a" alt="github" /></a>
-<a href="mailto:renatograsso95@gmail.com"><img src="https://img.shields.io/badge/-contact-05070a?style=flat-square&logo=protonmail&logoColor=34d399&labelColor=05070a" alt="contact" /></a>
-<img src="https://komarev.com/ghpvc/?username=renatograsso10&style=flat-square&color=34d399&label=visitors&labelColor=05070a" alt="visitors" />
+My approach draws on SDET practices: treating test code as software, building reusable components, and integrating tests into CI pipelines. I care about maintainability, clear diagnostics, and choosing the right coverage for each test layer.
 
-<sub><code>// ./session.exit — keep your tests green and your prod quiet.</code></sub>
+## Areas of focus
 
-</div>
+- **Test engineering:** reusable fixtures, page objects, and maintainable automation frameworks.
+- **API testing:** contract checks, response validation, and integration coverage.
+- **Performance testing:** workload design, load testing with k6, and analysis with Grafana.
+- **CI and diagnostics:** smoke and regression pipelines, reports, traces, and failure investigation.
+- **Development:** REST APIs and backend projects that complement my testing work.
+
+My main testing tools are **Playwright, TypeScript, Cypress, and k6**. My development projects also use **Python, Flask, and SQLAlchemy**.
+
+## Selected projects
+
+### [SAP UI5 Playwright Automation](https://github.com/renatograsso10/sap-ui5-playwright-automation)
+
+End-to-end and API contract tests for SAP UI5 demo applications. Includes page objects, reusable components, failure diagnostics, and separate CI runs for API, smoke, and regression coverage.
+
+`Playwright` `TypeScript` `GitHub Actions`
+
+### [k6 Performance Framework](https://github.com/renatograsso10/k6-performance-framework)
+
+A modular performance testing framework built with k6 and Grafana Cloud integration.
+
+`k6` `Grafana Cloud`
+
+### [Recipe API](https://github.com/renatograsso10/recipe_api)
+
+A REST API for creating, updating, and managing recipes. Built with Flask and SQLAlchemy, with SQLite for storage.
+
+`Python` `Flask` `SQLAlchemy` `SQLite`
+
+## Contact
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/renato-grasso-qa/) or by [email](mailto:renatograsso95@gmail.com).
