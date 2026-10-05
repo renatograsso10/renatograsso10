@@ -2,7 +2,8 @@
 
 **QA Engineer · Test Automation · Performance Testing**
 
-[LinkedIn](https://www.linkedin.com/in/renato-grasso-qa/) · [Email](mailto:renatograsso95@gmail.com)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/renato-grasso-qa/)
+[![Email](./assets/badges/email.svg)](mailto:renatograsso95@gmail.com)
 
 ## About me
 
@@ -18,7 +19,21 @@ My approach draws on SDET practices: treating test code as software, building re
 - **CI and diagnostics:** smoke and regression pipelines, reports, traces, and failure investigation.
 - **Development:** REST APIs and backend projects that complement my testing work.
 
-My main testing tools are **Playwright, TypeScript, Cypress, and k6**. My development projects also use **Python, Flask, and SQLAlchemy**.
+## Technologies
+
+**Testing & CI**
+
+![Playwright](./assets/badges/playwright.svg)
+![Cypress](./assets/badges/cypress.svg)
+![k6](./assets/badges/k6.svg)
+![TypeScript](./assets/badges/typescript.svg)
+![GitHub Actions](./assets/badges/github-actions.svg)
+
+**Development**
+
+![Python](./assets/badges/python.svg)
+![Flask](./assets/badges/flask.svg)
+![SQLAlchemy](./assets/badges/sqlalchemy.svg)
 
 ## Selected projects
 
@@ -39,6 +54,13 @@ A modular performance testing framework built with k6 and Grafana Cloud integrat
 A REST API for creating, updating, and managing recipes. Built with Flask and SQLAlchemy, with SQLite for storage.
 
 `Python` `Flask` `SQLAlchemy` `SQLite`
+
+## How I approach quality
+
+- **Start with risk.** Focus coverage on important user flows and likely failure points.
+- **Keep tests maintainable.** Use reusable components and clear assertions instead of duplicating setup.
+- **Make failures useful.** Keep traces, screenshots, and reports that help explain what went wrong.
+- **Test beyond the happy path.** Include invalid inputs, API contracts, and behavior under load.
 
 ## Contact
 
