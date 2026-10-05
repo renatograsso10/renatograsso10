@@ -23,19 +23,19 @@ My approach draws on SDET practices: treating test code as software, building re
 
 **Testing & CI**
 
-![Playwright](./assets/badges/playwright.svg)
-![Cypress](./assets/badges/cypress.svg)
-![k6](./assets/badges/k6.svg)
-![TypeScript](./assets/badges/typescript.svg)
-![GitHub Actions](./assets/badges/github-actions.svg)
+![Playwright](./assets/badges/playwright-compact.svg)
+![Cypress](./assets/badges/cypress-compact.svg)
+![k6](./assets/badges/k6-compact.svg)
+![TypeScript](./assets/badges/typescript-compact.svg)
+![GitHub Actions](./assets/badges/github-actions-compact.svg)
 
 **Development**
 
 I use JavaScript and TypeScript for test automation with Cypress and Playwright, and also enjoy C# and Java. I'm interested in how applications are built alongside how they are tested.
 
-![JavaScript](./assets/badges/javascript.svg)
-![C#](./assets/badges/csharp.svg)
-![Java](./assets/badges/java.svg)
+![JavaScript](./assets/badges/javascript-compact.svg)
+![C#](./assets/badges/csharp-compact.svg)
+![Java](./assets/badges/java-compact.svg)
 
 ## How I approach quality
 
