@@ -31,7 +31,7 @@ My approach draws on SDET practices: treating test code as software, building re
 
 **Development**
 
-I use JavaScript in test automation with Cypress, and also enjoy C# and Java. I'm interested in how applications are built alongside how they are tested.
+I use JavaScript and TypeScript for test automation with Cypress and Playwright, and also enjoy C# and Java. I'm interested in how applications are built alongside how they are tested.
 
 ![JavaScript](./assets/badges/javascript.svg)
 ![C#](./assets/badges/csharp.svg)
