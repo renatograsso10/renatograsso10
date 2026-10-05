@@ -17,7 +17,7 @@ My approach draws on SDET practices: treating test code as software, building re
 - **API testing:** contract checks, response validation, and integration coverage.
 - **Performance testing:** workload design, load testing with k6, and analysis with Grafana.
 - **CI and diagnostics:** smoke and regression pipelines, reports, traces, and failure investigation.
-- **Development:** REST APIs and backend projects that complement my testing work.
+- **Development interests:** C#, Java, and backend development that complements my testing work.
 
 ## Technologies
 
@@ -31,29 +31,10 @@ My approach draws on SDET practices: treating test code as software, building re
 
 **Development**
 
-![Python](./assets/badges/python.svg)
-![Flask](./assets/badges/flask.svg)
-![SQLAlchemy](./assets/badges/sqlalchemy.svg)
+I enjoy C# and Java, and exploring how applications are built alongside how they are tested.
 
-## Selected projects
-
-### [SAP UI5 Playwright Automation](https://github.com/renatograsso10/sap-ui5-playwright-automation)
-
-End-to-end and API contract tests for SAP UI5 demo applications. Includes page objects, reusable components, failure diagnostics, and separate CI runs for API, smoke, and regression coverage.
-
-`Playwright` `TypeScript` `GitHub Actions`
-
-### [k6 Performance Framework](https://github.com/renatograsso10/k6-performance-framework)
-
-A modular performance testing framework built with k6 and Grafana Cloud integration.
-
-`k6` `Grafana Cloud`
-
-### [Recipe API](https://github.com/renatograsso10/recipe_api)
-
-A REST API for creating, updating, and managing recipes. Built with Flask and SQLAlchemy, with SQLite for storage.
-
-`Python` `Flask` `SQLAlchemy` `SQLite`
+![C#](./assets/badges/csharp.svg)
+![Java](./assets/badges/java.svg)
 
 ## How I approach quality
 
